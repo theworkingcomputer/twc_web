@@ -1,0 +1,37 @@
+
+/* Main stylesheet */
+
+/* @section forms */
+.btn.cancel { margin-left: 0.5rem; }
+.nowrap { white-space: nowrap; }
+
+/* Your customizations here */
+/* example:::: .navbar-brand { color: red !important; } */
+
+h2 { 
+	font-family: serif;
+	font-size: 2.75rem; }
+
+.mast { 
+	margin-left: 5.0rem; 
+	margin-bottom: 4.0rem;
+	margin-top: 4.0rem;
+	font-stretch: semi-expanded;
+	font-family: serif; }
+
+.navbar-brand { 
+	font-size: 2.50rem;
+	color: #FCF87C; }
+
+.dis-navbar-nav { font-size: 125% !important; }
+.hoop-navbar-nav { font-size: 125% !important; }
+.web-navbar-nav { font-size: 125% !important; }
+.contact-navbar-nav { font-size: 125% !important; }
+
+.dropdown-menu { background-color: #AAAAFF !important }
+.spec-dropdown-menu { font-size: 125% !important; }
+.about-dropdown-menu { font-size: 125% !important; }
+
+.dropdown-toggle { 
+	color: #F4EC6C;
+	font-size: 115% !important; }

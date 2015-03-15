@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/home/david/.virtualenvs/twc"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/david/.virtualenvs/pyxcel"
+		}
+	]
+}
