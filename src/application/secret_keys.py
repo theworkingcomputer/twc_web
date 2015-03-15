@@ -1,4 +1,0 @@
-# CSRF- and Session keys
-
-CSRF_SECRET_KEY = '8DHGakdCBHFwELWu0OvWqdAe'
-SESSION_KEY = 'w6LzLnI7I9KG0m2mkzqLWf3B'
